@@ -1,6 +1,6 @@
 # Dataset 
 
-Dataset berisi putusan Pengadilan Negeri Bandung mengenai pidana khusus dengan klasifikasi **NARKOTIKA DAN PSIKOTROPIKA**
+Dataset berisi putusan **Pengadilan Negeri Bandung** mengenai pidana khusus dengan klasifikasi **NARKOTIKA DAN PSIKOTROPIKA**
 
 ## Link
 https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-bandung/kategori/narkotika-dan-psikotropika-1.html
