@@ -1,6 +1,6 @@
 # Dataset 
 
-Dataset berisi putusan Pengadilan Negeri Bandung mengenai pidana khusus dengan klasifikasi **NARKOTIKA DAN PSIKOTROPIKA**
+Dataset berisi putusan Pengadilan Negeri Bandung mengenai pidana khusus dengan klasifikasi **NARKOTIKA DAN PSIKOTROPIKA** Pengadilan Negeri Bandung
 
 ## Susunan Repo
 
